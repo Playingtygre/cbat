@@ -17,6 +17,6 @@ while they type we type.
 
 What kind of gull can you eat? a BAYgull
 
-How does a train eat? it choo choos
+how does a train eat: it choo choos
 
-why do you never see crows as roadkill? there's always one by the side of the road warning "CAW"
+why do you never see crows as roadkill? there's always one by the side of the road warning "CAW CAW"
