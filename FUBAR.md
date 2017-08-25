@@ -14,5 +14,4 @@ Where do animals go when their tails fall off?
 
 while they type we type.
 
-What kind of bagel can fly?
-
+What kind of gull can you eat? a BAYgull
