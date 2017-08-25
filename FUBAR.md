@@ -6,6 +6,6 @@ Bob and Carol are here. We have decided that a good joke would be tell the one a
 
 Ethello, the parrot, says to me, that's the one who is cool. Her name is Alice.
 
-Make the FUBAR live! What time does sean connery get to wimbledon? Punchline here.
+Make the FUBAR live! What time does Sean Connery get to Wimbledon? Something o'clock!
 
 while they type we type. hat kind.
