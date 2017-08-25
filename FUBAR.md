@@ -6,3 +6,7 @@ Bob and Carol are here. We have decided that a good joke would be tell the one a
 
 Ethello, says parrot says me to that one who is cool.
 
+Knock , Knock who's there?
+Foo is there?
+Foo Who?
+Foo Bared ?
