@@ -20,6 +20,4 @@ What kind of gull can you eat? a BAYgull
 What kind of bagel can fly?
 
 
-How does a train eat?
-
-
+How does a train eat? It eats its own kaboose.
