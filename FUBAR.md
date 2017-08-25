@@ -8,6 +8,7 @@ Ethello, the parrot, says to me, that's the one who is cool. Her name is Alice.
 
 Make the FUBAR live! What time does Sean Connery get to Wimbledon? Something o'clock! Tennish!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
+
 while they type we type.
 
 What kind of bagel can fly?
