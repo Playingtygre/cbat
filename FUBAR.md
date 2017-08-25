@@ -17,9 +17,6 @@ while they type we type.
 
 What kind of gull can you eat? a BAYgull
 
-What kind of bagel can fly?
+How does a train eat? it choo choos
 
-
-How does a train eat?
-
-
+why do you never see crows as roadkill? there's always one by the side of the road warning "CAW"
