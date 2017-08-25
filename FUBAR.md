@@ -12,3 +12,5 @@ Make the FUBAR live! What time does Sean Connery get to Wimbledon? Something o'c
 while they type we type.
 
 What kind of bagel can fly?
+
+How does a train eat?
