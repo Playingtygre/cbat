@@ -1,7 +1,8 @@
 Here are a list of possible question.
 -Just list theme here. / along with possible drop down anwers.
+-Any question you want....just Get creative with it. 
 
-<!-- kinnley -->
+<!-- kinnley ------------------------------------------------------>
 1.Are you an introvert or an extravert?
 2.Do you enjoy music while you study?
 
@@ -12,7 +13,7 @@ Here are a list of possible question.
   C.I don't eat while I'm studying,
   D. dragon meat
 
-<!-- ///tiger/// -->
+<!-- ///tiger/// =--------------------------------------------------->
 1. Where do you like to go shopping the most?
   A. Blockbuster
   B. The Krusty Krab Resturant (spongeBob Squarepants)
@@ -32,3 +33,11 @@ Here are a list of possible question.
   C. Herbie the Love Bug car
   D. Bruce Wayne's Batmobile
   E. lightning mcqueen from the Disney movie Cars.
+
+  <!-- ariel -------------------------------------------------------------->
+  1.Which 201 coding language do you think is your strongest?
+A.HTML
+B.CSS
+C.JavaScript
+
+<!-- marco -->
